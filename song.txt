@@ -1,0 +1,126 @@
+110
+18000
+
+27 400 300 0
+26 400 300 after
+24 400 300 after
+22 400 300 after
+20 400 300 after
+19 400 300 after
+17 400 300 after
+22 400 300 after
+
+19 400 300 after
+19 400 300 after
+20 400 300 after
+22 400 300 after
+22 400 300 after
+20 400 300 after
+19 400 300 after
+17 400 300 after
+15 400 300 after
+15 400 300 after
+17 400 300 after
+19 400 300 after
+19 600 300 after
+17 200 300 after
+17 800 300 after
+
+19 400 300 after
+19 400 300 after
+20 400 300 after
+22 400 300 after
+22 400 300 after
+20 400 300 after
+19 400 300 after
+17 400 300 after
+15 400 300 after
+15 400 300 after
+17 400 300 after
+19 400 300 after
+17 600 300 after
+15 200 300 after
+15 800 300 after
+
+
+22 400 300 0
+20 400 300 after
+19 400 300 after
+17 400 300 after
+15 400 300 after
+14 400 300 after
+12 400 300 after
+20 400 300 after
+
+17 400 300 after
+17 400 300 after
+17 400 300 after
+20 400 300 after
+19 400 300 after
+17 400 300 after
+17 400 300 after
+15 400 300 after
+12 400 300 after
+12 400 300 after
+12 400 300 after
+15 400 300 after
+15 600 300 after
+14 200 300 after
+14 800 300 after
+
+15 400 300 after
+15 400 300 after
+15 400 300 after
+15 400 300 after
+15 400 300 after
+15 400 300 after
+15 400 300 after
+15 400 300 after
+10 400 300 after
+10 400 300 after
+10 400 300 after
+15 400 300 after
+10 600 300 after
+rest 200 300 after
+10 800 300 after
+
+19 400 300 0
+17 400 300 after
+15 400 300 after
+14 400 300 after
+12 400 300 after
+10 400 300 after
+8 400 300 after
+14 400 300 after
+
+10 400 300 after
+10 400 300 after
+12 400 300 after
+15 400 300 after
+14 400 300 after
+12 400 300 after
+10 400 300 after
+8 400 300 after
+7 400 300 after
+7 400 300 after
+8 400 300 after
+10 400 300 after
+10 600 300 after
+10 200 300 after
+10 800 300 after
+
+10 400 300 after
+10 400 300 after
+12 400 300 after
+13 400 300 after
+12 400 300 after
+12 400 300 after
+12 400 300 after
+12 400 300 after
+7 400 300 after
+7 400 300 after
+8 400 300 after
+10 400 300 after
+8 600 300 after
+rest 200 300 after
+7 800 300 after
